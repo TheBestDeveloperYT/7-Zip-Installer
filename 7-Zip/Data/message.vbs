@@ -1,0 +1,1 @@
+X=MsgBox("7-Zip has been installed! Please check in the folder the 7-Zip application." , 64+0 , "7-Zip")
