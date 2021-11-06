@@ -5,7 +5,9 @@
 Nothing here...
 # Setup
 > 1 - First, download the ZIP file from GitHub.
+> 
 >  2 - Go to the folder then launch "7-Zip Installation".
+
 > 3 - You will see a cmd, type Y if you want to install or type N. For this tutorial, we going to type Y for yes.
 > 
 ![image](https://user-images.githubusercontent.com/91150113/140618343-9e087416-1de3-4b02-a177-7fb9ac803a07.png)
